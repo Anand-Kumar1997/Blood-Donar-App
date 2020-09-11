@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209196522416",
+    "firebase_url": "https://blood-donar-9c8fe.firebaseio.com",
+    "project_id": "blood-donar-9c8fe",
+    "storage_bucket": "blood-donar-9c8fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209196522416:android:87287087ddf11199",
+        "android_client_info": {
+          "package_name": "com.example.blooddonar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209196522416-idrp0r5hr10u99t8vuiqdidkbu3f787a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blooddonar",
+            "certificate_hash": "28023b29ad8b67d8b13bd9e0f610f9bff1f76061"
+          }
+        },
+        {
+          "client_id": "209196522416-ko706j4paldmmjmltlbp8dm7erb13aii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYl9HoNO8Y1jXK64mV4C6t-cXF9WO0w3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209196522416-ko706j4paldmmjmltlbp8dm7erb13aii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
